@@ -466,16 +466,16 @@ nav {
   justify-content: center;
 }
 .amount {
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 700;
   color: rgb(55, 53, 47);
 }
 .unit {
-  font-size: 16px;
+  font-size: 14px;
   color: rgba(55, 53, 47, 0.5);
 }
 .pricing-details {
-  font-size: 14px;
+  font-size: 13px;
   color: rgba(55, 53, 47, 0.65);
   line-height: 1.5;
 }
